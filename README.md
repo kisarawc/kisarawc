@@ -1,13 +1,12 @@
 
 <h1 align="center">Hi 👋 , I'm Chathuka</h1>
-<h3 align="center">I'm a Undergraduate at SLIIT</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4171367-Coding-Freak&psig=AOvVaw08qm-Bd93-KEmTxKPjXnv8&ust=1728764905450000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDOoaOVh4kDFQAAAAAdAAAAABAE">
+<h3 align="center">I'm a Undergraduate at SLIIT pursuing </br>BSc (Hons) Degree in Information Technology Specialized in Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathukakisara&label=Profile%20views&color=0e75b6&style=flat" alt="chathukakisara" /> </p>
 
 - 🌱 I’m currently learning **POWER BI**
 
-- 💬 Ask me about **Java, C , C++ , SQL , HTML , JS , CSS , PHP**
+- 💬 Ask me about **Python, Java, C , C++ , SQL , HTML , JS , CSS , PHP**
 
 - 📫 How to reach me **kisrawc@gmail.com**
 
